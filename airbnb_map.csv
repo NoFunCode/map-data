@@ -1,0 +1,178 @@
+region,month,price
+Arganzuela,1,70.92442067736185
+Arganzuela,2,59.229166666666664
+Arganzuela,3,64.65476190476191
+Arganzuela,4,70.1923076923077
+Arganzuela,5,62.5
+Arganzuela,6,69.88571428571429
+Arganzuela,7,76.58333333333333
+Arganzuela,8,67.05882352941177
+Arganzuela,9,79.0
+Arganzuela,10,78.79545454545455
+Arganzuela,11,109.42857142857143
+Arganzuela,12,108.18421052631578
+Barajas,1,44.086811789786616
+Barajas,2,41.20053384912959
+Barajas,3,62.0
+Barajas,4,47.0
+Barajas,5,43.0
+Barajas,6,50.0
+Barajas,7,59.666666666666664
+Barajas,8,39.0
+Barajas,9,39.0
+Barajas,10,39.0
+Barajas,11,39.0
+Carabanchel,1,41.0
+Carabanchel,6,104.5
+Carabanchel,8,81.0
+Carabanchel,12,108.0
+Centro,1,75.11051923594296
+Centro,2,88.14623015873016
+Centro,3,101.8302861035548
+Centro,4,114.00668215439585
+Centro,5,136.5962539593721
+Centro,6,150.8139050940341
+Centro,7,145.52729010859002
+Centro,8,148.35179054355257
+Centro,9,148.42850586611456
+Centro,10,148.97402275075527
+Centro,11,160.44055265386788
+Centro,12,159.227693079867
+Chamartín,1,45.0
+Chamartín,4,82.0
+Chamartín,5,105.0
+Chamartín,6,123.26666666666667
+Chamartín,7,156.65
+Chamartín,8,152.0
+Chamartín,9,133.53333333333333
+Chamartín,10,131.49074074074073
+Chamartín,11,133.23529411764707
+Chamberí,1,77.8859649122807
+Chamberí,2,148.54166666666666
+Chamberí,3,172.25
+Chamberí,4,164.0
+Chamberí,5,327.0
+Chamberí,6,298.5
+Chamberí,7,237.25
+Chamberí,8,228.75
+Chamberí,9,146.0
+Chamberí,10,146.0
+Chamberí,11,146.0
+Chamberí,12,205.0
+Ciudad Lineal,1,49.61818181818182
+Ciudad Lineal,2,42.0
+Ciudad Lineal,3,26.0
+Ciudad Lineal,4,26.0
+Ciudad Lineal,6,70.0
+Fuencarral-El Pardo,12,800.0
+Hortaleza,1,41.25
+Hortaleza,2,61.5
+Hortaleza,3,56.94117647058823
+Hortaleza,4,84.03703703703704
+Hortaleza,5,71.66666666666667
+Hortaleza,6,77.31976744186046
+Hortaleza,7,102.83333333333333
+Hortaleza,8,84.6470588235294
+Hortaleza,9,87.18518518518518
+Hortaleza,10,84.65625
+Hortaleza,11,83.63636363636364
+Hortaleza,12,88.5
+Latina,1,42.666666666666664
+Latina,2,48.0
+Latina,3,46.0
+Latina,4,59.666666666666664
+Latina,5,102.5
+Latina,6,70.0
+Latina,7,102.5
+Latina,8,64.0
+Latina,9,64.0
+Latina,12,213.66666666666666
+Moncloa-Aravaca,1,107.5
+Moncloa-Aravaca,2,97.5
+Moncloa-Aravaca,3,94.0
+Moncloa-Aravaca,4,104.35714285714286
+Moncloa-Aravaca,5,98.5
+Moncloa-Aravaca,6,136.0857142857143
+Moncloa-Aravaca,7,127.31349206349206
+Moncloa-Aravaca,8,127.84722222222223
+Moncloa-Aravaca,9,128.0
+Moncloa-Aravaca,10,94.0
+Moncloa-Aravaca,11,155.25
+Moncloa-Aravaca,12,433.5
+Moratalaz,1,24.0
+Moratalaz,2,23.0
+Moratalaz,3,23.0
+Moratalaz,4,23.0
+Moratalaz,5,23.0
+Moratalaz,6,23.0
+Moratalaz,7,23.0
+Moratalaz,8,23.0
+Puente de Vallecas,1,37.4
+Puente de Vallecas,2,72.0
+Puente de Vallecas,3,60.5
+Puente de Vallecas,4,98.0
+Puente de Vallecas,5,98.0
+Puente de Vallecas,6,98.0
+Puente de Vallecas,7,96.5
+Puente de Vallecas,8,98.0
+Puente de Vallecas,9,98.0
+Puente de Vallecas,10,98.0
+Puente de Vallecas,11,98.0
+Puente de Vallecas,12,98.0
+Retiro,1,44.8
+Retiro,2,48.25
+Retiro,3,48.0
+Retiro,4,49.916666666666664
+Retiro,5,52.875
+Retiro,6,53.800000000000004
+Retiro,7,53.074074074074076
+Retiro,8,29.666666666666668
+Retiro,9,68.14166666666667
+Retiro,10,67.9
+Retiro,11,84.16666666666667
+Retiro,12,106.10939510939511
+Salamanca,1,57.76190476190476
+Salamanca,2,62.08888888888889
+Salamanca,3,120.71428571428571
+Salamanca,4,89.73529411764706
+Salamanca,5,222.90196078431373
+Salamanca,6,200.66666666666669
+Salamanca,7,64.82142857142857
+Salamanca,8,529.4117647058823
+Salamanca,9,536.7173913043479
+Salamanca,10,152.58139534883722
+Salamanca,11,556.3947368421052
+Salamanca,12,1079.0
+San Blas - Canillejas,1,32.25
+San Blas - Canillejas,2,36.0
+San Blas - Canillejas,4,76.0
+San Blas - Canillejas,5,76.0
+San Blas - Canillejas,6,60.0
+San Blas - Canillejas,7,50.666666666666664
+San Blas - Canillejas,8,76.0
+San Blas - Canillejas,9,76.0
+San Blas - Canillejas,10,76.0
+San Blas - Canillejas,11,76.0
+San Blas - Canillejas,12,76.0
+San Cristóbal,1,20.0
+San Cristóbal,2,21.0
+San Cristóbal,3,21.0
+Tetuán,1,54.96666666666667
+Tetuán,2,42.0
+Tetuán,3,186.33333333333334
+Tetuán,5,133.0
+Tetuán,6,286.0
+Tetuán,7,204.66666666666666
+Tetuán,8,275.0
+Tetuán,9,70.0
+Usera,1,33.0
+Usera,2,33.0
+Usera,3,31.636363636363637
+Usera,4,30.0
+Usera,5,30.0
+Usera,7,48.5
+Usera,8,30.0
+Usera,9,30.0
+Usera,10,30.0
+Usera,11,30.0
+Usera,12,30.0
