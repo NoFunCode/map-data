@@ -1,18 +1,18 @@
 from bs4 import BeautifulSoup
 import requests
 import datetime
-
 import pandas as pd
 
 
+# Function to calculate check-out date given the check-in date
 def outAfterOneDay(checkIn):
     months31 = [1, 3, 5, 7, 8, 10]
     months30 = [4, 6, 9, 11]
     if (
-        (checkIn.month in months30 and checkIn.day == 30)
-        or (checkIn.month == 2 and checkIn.day == 28 and checkIn.year == 2025)
-        or (checkIn.month == 2 and checkIn.day == 29 and checkIn.year == 2024)
-        or (checkIn.month in months31 and checkIn.day == 31)
+            (checkIn.month in months30 and checkIn.day == 30)
+            or (checkIn.month == 2 and checkIn.day == 28 and checkIn.year == 2025)
+            or (checkIn.month == 2 and checkIn.day == 29 and checkIn.year == 2024)
+            or (checkIn.month in months31 and checkIn.day == 31)
     ):
         checkOut = datetime.datetime(checkIn.year, checkIn.month + 1, 1)
     elif checkIn.month == 12 and checkIn.day == 31:
@@ -22,9 +22,9 @@ def outAfterOneDay(checkIn):
     return checkOut
 
 
+# Main scraper function
 def scraper(checkIn):
     hotelData = []
-    checkIn = checkIn
     checkOut = outAfterOneDay(checkIn)
     url = f'https://www.booking.com/searchresults.html?ss=Madrid%2C+Spain&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=-390625&dest_type=city&checkin={checkIn.strftime("%Y-%m-%d")}&checkout={checkOut.strftime("%Y-%m-%d")}&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure&selected_currency=EUR'
     headers = {
@@ -72,7 +72,7 @@ def scraper(checkIn):
             )
 
         print(checkIn.strftime("%Y-%m-%d"), checkOut.strftime("%Y-%m-%d"))
-        # Go the the next page
+        # Go to the next page
         new_url = url + f"&offset={len(hotelData)}"
         print(new_url.split("EUR")[1])
         response = requests.get(new_url, headers=headers)
@@ -81,13 +81,19 @@ def scraper(checkIn):
     return hotelData, checkOut
 
 
+# Set the initial check-in date
 checkIn = datetime.datetime(2024, 10, 1)
 finalData = []
 
 try:
+    # Loop until the check-in date reaches December 31, 2024
     while checkIn != datetime.datetime(2024, 12, 31):
+        # Call the scraper function to get hotel data for the current check-in date
         data, checkOut = scraper(checkIn)
-        if data:  # Check if data is not empty
+
+        # Check if data is not empty
+        if data:
+            # Extend the finalData list with the data collected for the current date
             finalData.extend(data)
             print(
                 f"Data collected for {checkIn.strftime('%Y-%m-%d')}: {len(data)} items"
@@ -100,8 +106,11 @@ except KeyboardInterrupt:
     print("Interrupted manually. Saving data collected so far...")
 
 finally:
-    if finalData:  # Check if finalData is not empty
+    # Check if finalData is not empty
+    if finalData:
+        # Create a DataFrame from the collected data
         bookingData = pd.DataFrame(finalData)
+        # Save the DataFrame to a CSV file
         bookingData.to_csv("bookingDataServer.csv")
         print(f"Data saved to bookingDataServer.csv. Total items: {len(finalData)}")
     else:
