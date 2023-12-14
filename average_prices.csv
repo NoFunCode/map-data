@@ -1,0 +1,230 @@
+region,month,price
+Arganzuela,1,81.67
+Arganzuela,2,76.03
+Arganzuela,3,83.32
+Arganzuela,4,87.01
+Arganzuela,5,96.61
+Arganzuela,6,87.82
+Arganzuela,7,93.25
+Arganzuela,8,74.97
+Arganzuela,9,89.63
+Arganzuela,10,99.86
+Arganzuela,11,99.42
+Arganzuela,12,85.8
+Barajas,1,69.0
+Barajas,2,75.72
+Barajas,3,86.12
+Barajas,4,90.19
+Barajas,5,98.46
+Barajas,6,95.43
+Barajas,7,101.31
+Barajas,8,81.48
+Barajas,9,93.78
+Barajas,10,114.32
+Barajas,11,105.88
+Barajas,12,106.19
+Carabanchel,1,47.46
+Carabanchel,2,61.86
+Carabanchel,3,61.58
+Carabanchel,4,62.52
+Carabanchel,5,61.41
+Carabanchel,6,76.45
+Carabanchel,7,69.47
+Carabanchel,8,60.75
+Carabanchel,9,40.0
+Carabanchel,10,62.03
+Carabanchel,11,60.15
+Carabanchel,12,55.09
+Centro,1,91.4
+Centro,2,98.2
+Centro,3,119.98
+Centro,4,111.23
+Centro,5,126.49
+Centro,6,128.26
+Centro,7,123.41
+Centro,8,107.18
+Centro,9,125.78
+Centro,10,145.31
+Centro,11,133.18
+Centro,12,132.21
+Chamartín,1,112.16
+Chamartín,2,132.34
+Chamartín,3,131.36
+Chamartín,4,120.41
+Chamartín,5,125.22
+Chamartín,6,136.62
+Chamartín,7,155.29
+Chamartín,8,118.23
+Chamartín,9,131.44
+Chamartín,10,140.34
+Chamartín,11,140.47
+Chamartín,12,122.54
+Chamberí,1,101.57
+Chamberí,2,127.64
+Chamberí,3,126.3
+Chamberí,4,208.37
+Chamberí,5,217.43
+Chamberí,6,181.31
+Chamberí,7,180.31
+Chamberí,8,116.2
+Chamberí,9,131.12
+Chamberí,10,150.38
+Chamberí,11,146.31
+Chamberí,12,176.87
+Ciudad Lineal,1,82.84
+Ciudad Lineal,2,73.14
+Ciudad Lineal,3,94.69
+Ciudad Lineal,4,56.58
+Ciudad Lineal,5,66.72
+Ciudad Lineal,6,64.75
+Ciudad Lineal,7,105.23
+Ciudad Lineal,8,74.67
+Ciudad Lineal,9,78.67
+Ciudad Lineal,10,100.5
+Ciudad Lineal,11,84.92
+Ciudad Lineal,12,80.87
+Fuencarral-El Pardo,1,97.73
+Fuencarral-El Pardo,2,93.8
+Fuencarral-El Pardo,3,86.76
+Fuencarral-El Pardo,4,94.26
+Fuencarral-El Pardo,5,87.42
+Fuencarral-El Pardo,6,95.38
+Fuencarral-El Pardo,7,128.57
+Fuencarral-El Pardo,8,106.19
+Fuencarral-El Pardo,9,169.5
+Fuencarral-El Pardo,10,149.22
+Fuencarral-El Pardo,11,123.27
+Fuencarral-El Pardo,12,201.81
+Hortaleza,1,63.9
+Hortaleza,2,72.35
+Hortaleza,3,65.97
+Hortaleza,4,77.43
+Hortaleza,5,83.58
+Hortaleza,6,89.21
+Hortaleza,7,94.44
+Hortaleza,8,72.12
+Hortaleza,9,88.18
+Hortaleza,10,99.03
+Hortaleza,11,97.78
+Hortaleza,12,83.64
+Latina,1,53.62
+Latina,2,48.0
+Latina,3,46.0
+Latina,4,59.67
+Latina,5,102.5
+Latina,6,59.5
+Latina,7,102.5
+Latina,8,64.0
+Latina,9,64.0
+Latina,10,57.0
+Latina,11,56.64
+Latina,12,120.38
+Moncloa-Aravaca,1,98.02
+Moncloa-Aravaca,2,99.68
+Moncloa-Aravaca,3,120.07
+Moncloa-Aravaca,4,132.86
+Moncloa-Aravaca,5,136.93
+Moncloa-Aravaca,6,129.72
+Moncloa-Aravaca,7,113.0
+Moncloa-Aravaca,8,110.31
+Moncloa-Aravaca,9,117.33
+Moncloa-Aravaca,10,182.02
+Moncloa-Aravaca,11,141.7
+Moncloa-Aravaca,12,207.18
+Moratalaz,1,24.0
+Moratalaz,2,23.0
+Moratalaz,3,23.0
+Moratalaz,4,23.0
+Moratalaz,5,23.0
+Moratalaz,6,23.0
+Moratalaz,7,23.0
+Moratalaz,8,23.0
+Puente de Vallecas,1,150.19
+Puente de Vallecas,2,203.01
+Puente de Vallecas,3,70.43
+Puente de Vallecas,4,70.96
+Puente de Vallecas,5,55.62
+Puente de Vallecas,6,82.35
+Puente de Vallecas,7,85.6
+Puente de Vallecas,8,65.13
+Puente de Vallecas,9,75.5
+Puente de Vallecas,10,54.99
+Puente de Vallecas,11,79.25
+Puente de Vallecas,12,81.86
+Retiro,1,89.45
+Retiro,2,94.3
+Retiro,3,103.86
+Retiro,4,124.16
+Retiro,5,111.47
+Retiro,6,116.32
+Retiro,7,111.0
+Retiro,8,102.06
+Retiro,9,92.95
+Retiro,10,133.53
+Retiro,11,138.72
+Retiro,12,100.98
+Salamanca,1,143.18
+Salamanca,2,143.34
+Salamanca,3,150.08
+Salamanca,4,170.56
+Salamanca,5,201.92
+Salamanca,6,192.28
+Salamanca,7,131.56
+Salamanca,8,164.55
+Salamanca,9,195.53
+Salamanca,10,199.17
+Salamanca,11,225.2
+Salamanca,12,208.46
+San Blas - Canillejas,1,80.87
+San Blas - Canillejas,2,92.25
+San Blas - Canillejas,3,106.62
+San Blas - Canillejas,4,106.0
+San Blas - Canillejas,5,122.42
+San Blas - Canillejas,6,105.14
+San Blas - Canillejas,7,92.13
+San Blas - Canillejas,8,89.1
+San Blas - Canillejas,9,108.09
+San Blas - Canillejas,10,133.31
+San Blas - Canillejas,11,121.28
+San Blas - Canillejas,12,100.4
+San Cristóbal,1,20.0
+San Cristóbal,2,21.0
+San Cristóbal,3,21.0
+Tetuán,1,73.86
+Tetuán,2,91.05
+Tetuán,3,111.56
+Tetuán,4,108.21
+Tetuán,5,105.13
+Tetuán,6,121.12
+Tetuán,7,117.82
+Tetuán,8,116.63
+Tetuán,9,97.2
+Tetuán,10,125.36
+Tetuán,11,98.63
+Tetuán,12,100.65
+Usera,1,23.5
+Usera,2,22.0
+Usera,3,31.64
+Usera,4,30.0
+Usera,5,30.0
+Usera,6,14.0
+Usera,7,48.5
+Usera,8,30.0
+Usera,9,30.0
+Usera,10,30.0
+Usera,11,44.67
+Usera,12,51.1
+Valdelasfuentes,12,42.0
+Vicálvaro,4,80.0
+Vicálvaro,5,80.0
+Vicálvaro,6,80.0
+Vicálvaro,7,80.0
+Vicálvaro,10,80.0
+Vicálvaro,11,81.0
+Vicálvaro,12,80.0
+Villa de Vallecas,1,76.0
+Villa de Vallecas,11,77.0
+"Villaverde Alto, Casco Histórico de Villaverde",3,68.0
+"Villaverde Alto, Casco Histórico de Villaverde",10,73.33
+"Villaverde Alto, Casco Histórico de Villaverde",11,71.27
+"Villaverde Alto, Casco Histórico de Villaverde",12,80.12
